@@ -144,14 +144,14 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "9.00"
+  priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["online community and TV channel", "10Gb storage", "Monetization"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
