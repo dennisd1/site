@@ -137,9 +137,6 @@ ticketsOffers:
  -
   name: "Free"
   price: "FREE"
-  priceCurrency: "РУБ"
-  ticketsNumber: "150"
-  ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Join now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
