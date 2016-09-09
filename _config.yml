@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/features/", text: "Features"}
  - {permalink: "/forcommunities/", text: "For communities"}
- - {permalink: "/ourteam/", text: "Teamnew"}
+ - {permalink: "/oteam/", text: "Teamnew"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
