@@ -156,7 +156,7 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Student"
+  name: "Producer"
   price: "200"
   priceCurrency: "UAH"
   ticketsNumber: "50"
@@ -189,6 +189,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/tos/", text: "terms of service"}
 
 # Blog
 blogTitle: "Latest news"
