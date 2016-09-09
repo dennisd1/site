@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JS Конференция <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "YOCH.TV <typeout> 2014"
+eventDate: "Your community TV"
+typeoutTextValues: '"", "USA", "CHINA", "RUSSIA", "BRAZIL"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Обсуди с участниками"}
