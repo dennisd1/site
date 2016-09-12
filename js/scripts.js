@@ -4,7 +4,7 @@
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
             $('#preloader').delay(0).fadeOut(800);
-            initGooglePlus();
+            //initGooglePlus();
             equalheight('.same-height');
         });
 
