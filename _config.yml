@@ -61,7 +61,7 @@ eventDate: "Your community"
 typeoutTextValues: '"", "online community", "groups", "TV channel", "loyalty"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Попробуй бесплатно!"}
+ - {link: "http://corp.vot.expert", text: "Попробуй бесплатно!"}
  
 # About Block
 aboutTitle: "About GDG DevFest"
