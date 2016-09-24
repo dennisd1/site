@@ -22,13 +22,13 @@
     - {name: "linkedin", link: "https://linkedin.com"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Bryan"
+  surname: "Gordon"
+  title: "Chief Financial Officer"
+  thumbnailUrl: BrianGordon.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Yoch TV", title: "Chief Financial Officer"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
