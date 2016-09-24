@@ -14,10 +14,10 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
+  name: "Andy"
+  surname: "Richards"
   title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: AndyRichards.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
