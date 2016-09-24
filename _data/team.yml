@@ -52,7 +52,7 @@
   surname: "Danylyk"
   title: "Android Program Committee"
   thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  subTeam: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -63,7 +63,7 @@
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
   thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  subTeam: false
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
