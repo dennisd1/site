@@ -10,13 +10,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Лучшее мероприятие 2017"
-email: "devfest@gdg.org.ua"
-description: "Лучшее мероприятие 2016 года"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Your channel"
+email: "info@yoch.tv"
+description: "You online community"
+baseurl: "/site"
+url: "https://yoch.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
