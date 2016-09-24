@@ -1,0 +1,21 @@
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    
+    background: none;
+    border: 2px solid red;
+    color: red;
+    margin-left: 20px;
+    
+    font: 34px Arial Narrow, sans-serif;
+}
+.upperLetter {
+    background: none;
+    color: red;
+    text-align: center;
+    margin-top: -36px;
+    margin-left: 18px;
+    font: 15px Arial Narrow, sans-serif;
+}
