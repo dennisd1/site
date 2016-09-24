@@ -48,17 +48,15 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: false
+  name: "Jane"
+  surname: "Parker"
+  title: "Chief Human Resources Officer"
+  thumbnailUrl: JaneParker.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://linkedin.com"}
 - 
-  id: 7
+  id: 5
   name: "Valentyn"
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
