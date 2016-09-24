@@ -9,9 +9,6 @@
     - {abbr: "Yoch TV", title: "CEO"}
   social: 
     - {name: "linkedin", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
   name: "Andy"
