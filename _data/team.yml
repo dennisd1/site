@@ -55,8 +55,17 @@
   team: true
   social: 
     - {name: "linkedin", link: "https://linkedin.com"}
-- 
+    - 
   id: 5
+  name: "Elizabeth"
+  surname: "Carey"
+  title: "Head of Marketing"
+  thumbnailUrl: ElizabethCarey.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://linkedin.com"}
+- 
+  id: 6
   name: "Valentyn"
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
