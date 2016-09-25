@@ -35,13 +35,13 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
-  name: "Michael"
+  name: "Michael "
   surname: "Landes"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  title: "Head of Strategic Development"
+  thumbnailUrl: MichaelLandes.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Head of Strategic Development"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
