@@ -25,7 +25,7 @@
   name: "Bryan"
   surname: "Gordon"
   title: "Chief Financial Officer"
-  thumbnailUrl: BrianGordon.jpg
+  thumbnailUrl: BryanGordon.jpg
   team: true
   ribbon: 
     - {abbr: "Yoch TV", title: "Chief Financial Officer"}
