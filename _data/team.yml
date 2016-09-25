@@ -70,7 +70,7 @@
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
   thumbnailUrl: ValentynShybanov.jpg
-  subTeam: false
+  subTeam: 
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
