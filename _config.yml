@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/features/", text: "Features"}
  - {permalink: "/oteam/", text: "Teamnew"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/communities/", text: "Communities"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Обсуди с участниками"}
