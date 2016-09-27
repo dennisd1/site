@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/communities/", text: "Communities"}
  - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Обсуди с участниками"}
 rightNavigationButtons:
