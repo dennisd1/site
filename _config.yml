@@ -1,4 +1,4 @@
-# Plugins
+﻿# Plugins
 gems:
 - jekyll-sitemap
 safe: false
@@ -15,7 +15,6 @@ email: "info@yoch.tv"
 description: "You online community"
 baseurl: "/site"
 url: "https://yoch.github.io"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -189,10 +188,6 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
    - {permalink: "/tos/", text: "terms of service"}
 
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
