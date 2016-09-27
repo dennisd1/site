@@ -66,10 +66,10 @@
     - {name: "linkedin", link: "https://linkedin.com"}
 - 
   id: 6
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Kate"
+  surname: "Brooks"
+  title: "Community Development Lead"
+  thumbnailUrl: KateBrooks.jpg
   subTeam: 
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
