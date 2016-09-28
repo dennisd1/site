@@ -9,11 +9,6 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
-# Site Settings
-
-
-# Organizer Info
-
 
 # Head
 metaKeywords: "event"
@@ -30,16 +25,7 @@ navigationLinks:
  - {permalink: "/oteam/", text: "Teamnew"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/communities/", text: "Communities"}
- - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/blog/", text: "Blog"}
 
 
-# Hero Block
-heroImage: "hero.jpg"
-heroTitle: "YOUR <typeout> in one place"
-eventDate: "Your community"
-typeoutTextValues: '"", "online community", "groups", "TV channel", "loyalty"'
-typeoutFallback: "Season"
-heroButtons:
- - {link: "http://corp.vot.expert", text: "Попробуй бесплатно!"}
  
