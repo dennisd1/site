@@ -1,11 +1,154 @@
----
-#
-# Jekyll layout that compresses HTML
-# v0.3.1
-# https://github.com/penibelst/jekyll-compress-html
-# © 2014 Anatol Broder (http://penibelst.de/)
-# MIT License
-#
----
+<label for="menu-toggle" class="ui primary button">Click me to hide details about the team</label>
+<input type="checkbox" id="menu-toggle"/>
+<div id="topinfoblock">
+    <!--<Menu here>-->
+ <div class="ui info message">
+  <i class="close icon"></i>
+  <div class="header">
+    Was this what you wanted?
+  </div>
+  <ul class="list">
+    <li>It's good to see you again.</li>
+    <li>Did you know it's been a while?</li>
+  </ul>
+</div>
+<div class="ui items">
+  <div class="item">
+    <a class="ui tiny image">
+      <img src="http://semantic-ui.com/images/avatar/large/stevie.jpg">
+    </a>
+    <div class="content">
+      <a class="header">Stevie Feliciano</a>
+      <div class="description">
+        <p>Stevie Feliciano is a <a>library scientist</a> living in New York City. She likes to spend her time reading, running, and writing.</p>
+      </div>
+      <div class="ui label">
+         Inbox
+         <a class="detail"><i class="mail icon"></i> 23</a>
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <a class="ui tiny image">
+      <img src="http://semantic-ui.com/images/avatar/large/veronika.jpg">
+    </a>
+    <div class="content">
+      <a class="header">Мария Иванова</a>
+      <div class="description">
+        <p>Мария Иванова - аудитор со стажем in New York who <a>enjoys</a> kittens, music, and partying.</p>
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <a class="ui tiny image">
+      <img src="http://semantic-ui.com/images/avatar/large/jenny.jpg">
+    </a>
+    <div class="content">
+      <a class="header">Jenny Hess</a>
+      <div class="description">
+        <p>Jenny is a student studying Media Management at <a>the New School</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Раздел проекты-->
 
-{% assign _pres = content | split: '<pre' %}{% for _pre1 in _pres %}{% assign _pre2 = _pre1 | split: '</pre>' %}{% if _pre2.size == 2 %}<pre{{ _pre2.first }}</pre>{% endif %}{% assign _second = _pre2.last | split: ' ' | join: ' ' %}{% for _element in site.compress_html.clippings %}{% assign _edges = ' <element,<element; </element>,</element>;</element> ,</element>' | replace: 'element', _element | split: ';' %}{% for _edge in _edges %}{% assign _replacement = _edge | split: ',' %}{% assign _second = _second | replace: _replacement[0], _replacement[1] %}{% endfor %}{% endfor %}{% for _element in site.compress_html.endings %}{% assign _closing = '</element>' | replace: 'element', _element %}{% assign _second = _second | remove: _closing %}{% endfor %}{{ _second }}{% endfor %}
+<h2 class="ui dividing header">Ключевые проекты</h2>
+
+<div class="ui divided items">
+  <div class="item">
+    <div class="image">
+      <img src="http://semantic-ui.com/images/wireframe/image.png">
+    </div>
+    <div class="content">
+      <a class="header">12 Years a Slave</a>
+      <div class="meta">
+        <span class="cinema">Union Square 14</span>
+      </div>
+      <div class="description">
+        <p></p>
+      </div>
+      <div class="extra">
+        <div class="ui label">IMAX</div>
+        <div class="ui label"><i class="globe icon"></i> Additional Languages</div>
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <div class="image">
+      <img src="http://semantic-ui.com/images/wireframe/image.png">
+    </div>
+    <div class="content">
+      <a class="header">My Neighbor Totoro</a>
+      <div class="meta">
+        <span class="cinema">IFC Cinema</span>
+      </div>
+      <div class="description">
+        <p></p>
+      </div>
+      <div class="extra">
+        <div class="ui right floated primary button">
+          Buy tickets
+          <i class="right chevron icon"></i>
+        </div>
+        <div class="ui label">Limited</div>
+      </div>
+    </div>
+  </div>
+  <div class="item">
+    <div class="image">
+      <img src="http://semantic-ui.com/images/wireframe/image.png">
+    </div>
+    <div class="content">
+      <a class="header">Watchmen</a>
+      <div class="meta">
+        <span class="cinema">IFC</span>
+      </div>
+      <div class="description">
+        <p></p>
+      </div>
+      <div class="extra">
+        <div class="ui right floated button">
+          Подробнее
+          <i class="right chevron icon"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+ <div class="ui stackable very relaxed grid container">
+    <div class="fourteen wide center aligned centered column">
+      <h1 class="ui icon header">
+        <img src="http://semantic-ui.com/images/icons/toolbox.png" class="ui icon image">
+        Присоединяйтесь к команде!
+      </h1>
+      <p>Definitions aren't limited to just buttons on a page. Semantic's components allow several distinct types of definitions: elements, collections, views, modules and behaviors which cover the gamut of interface design.</p>
+      <a class="ui large primary button" href="/usage/layout.html">
+        See Layout Examples
+        <i class="right chevron icon"></i>
+      </a>
+    </div>
+</div>
+<h2 class="ui dividing header">Ключевые проекты</h2>
+
+<div class="ui divided items">
+  <div class="item">
+    <div class="image">
+      <img src="http://semantic-ui.com/images/wireframe/image.png">
+    </div>
+    <div class="content">
+      <a class="header">12 Years a Slave</a>
+      <div class="meta">
+        <span class="cinema">Union Square 14</span>
+      </div>
+      <div class="description">
+          <img src="http://semantic-ui.com/images/wireframe/short-paragraph.png" class="ui wireframe image">
+        <p></p>
+      </div>
+      <div class="extra">
+        <div class="ui label">IMAX</div>
+        <div class="ui label"><i class="globe icon"></i> Additional Languages</div>
+      </div>
+    </div>
+</div>
+</div>
